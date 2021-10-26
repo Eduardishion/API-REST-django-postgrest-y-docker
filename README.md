@@ -3,6 +3,7 @@ Una API REST que pueda implementarse de manera local y que sus endpoints puedan 
 
 
 La versión de docker que se uso es:
+
     Docker version 20.10.9
     docker-compose version 1.26.0
  
