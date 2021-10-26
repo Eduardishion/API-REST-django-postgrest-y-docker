@@ -58,6 +58,11 @@ los entpoint para poder usar el api son:
   Para eliminarlo 
   
     http://0.0.0.0:8000/api/1/delete
+    
+  Si desean detener el servicio 
+    
+    Ctrl + c
+  
   
 
   
